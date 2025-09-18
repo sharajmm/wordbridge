@@ -1,0 +1,381 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Present Perfect Tense",
+      "explanation": "The present perfect tense connects the past with the present. It's formed using 'have/has' + past participle. Use it for actions that started in the past and continue to the present, or for past actions with present relevance.",
+      "examples": [
+        "I have lived in this city for five years.",
+        "She has finished her homework.",
+        "They have never been to Paris."
+      ],
+      "rules": [
+        "Use 'have' with I, you, we, they",
+        "Use 'has' with he, she, it",
+        "Add 'not' after have/has for negative sentences",
+        "Move have/has to the beginning for questions"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which sentence uses present perfect correctly?",
+          "options": [
+            "I have went to the store yesterday.",
+            "I have gone to the store yesterday.",
+            "I have gone to the store many times.",
+            "I have go to the store many times."
+          ],
+          "correct": 2,
+          "explanation": "Present perfect uses 'have/has + past participle'. 'Gone' is the past participle of 'go'. Also, present perfect is not used with specific past time references like 'yesterday'."
+        },
+        {
+          "id": 2,
+          "question": "Complete the sentence: 'She ___ in London since 2018.'",
+          "options": ["lives", "lived", "has lived", "is living"],
+          "correct": 2,
+          "explanation": "'Since 2018' indicates an action that started in the past and continues to the present, which requires present perfect tense."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Conditional Sentences (Type 1)",
+      "explanation": "First conditional sentences express real possibilities in the future. The structure is: If + present simple, will + base verb. These sentences describe situations that are likely to happen if a certain condition is met.",
+      "examples": [
+        "If it rains tomorrow, we will stay indoors.",
+        "If you study hard, you will pass the exam.",
+        "She will be happy if you call her."
+      ],
+      "rules": [
+        "Use present simple in the 'if' clause",
+        "Use 'will + base verb' in the main clause",
+        "Can reverse the order: 'We will stay indoors if it rains'",
+        "Can use other modals instead of 'will' (might, could, should)"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which sentence shows correct first conditional structure?",
+          "options": [
+            "If I will have time, I visit you.",
+            "If I have time, I will visit you.",
+            "If I had time, I will visit you.",
+            "If I have time, I would visit you."
+          ],
+          "correct": 1,
+          "explanation": "First conditional uses present simple in the 'if' clause and 'will + base verb' in the main clause."
+        },
+        {
+          "id": 2,
+          "question": "Complete: 'If the weather ___ nice, we ___ to the beach.'",
+          "options": [
+            "will be / go",
+            "is / will go",
+            "was / will go",
+            "is / go"
+          ],
+          "correct": 1,
+          "explanation": "First conditional requires present simple ('is') in the if-clause and 'will + base verb' ('will go') in the main clause."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Passive Voice",
+      "explanation": "Passive voice is used when the focus is on the action or the object receiving the action, rather than who performs the action. It's formed with 'be' + past participle. The person doing the action (agent) can be mentioned with 'by' or omitted entirely.",
+      "examples": [
+        "The book was written by Shakespeare. (focus on the book)",
+        "The house is being painted. (agent not important)",
+        "English is spoken worldwide. (general truth)"
+      ],
+      "rules": [
+        "Use appropriate form of 'be' + past participle",
+        "The object of active sentence becomes subject of passive",
+        "Add 'by + agent' if the doer is important",
+        "Common in formal writing and when agent is unknown"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Convert to passive: 'Someone stole my bike.'",
+          "options": [
+            "My bike stolen by someone.",
+            "My bike was stolen.",
+            "My bike has stolen.",
+            "My bike is steal."
+          ],
+          "correct": 1,
+          "explanation": "Passive voice uses 'be + past participle'. Since the active sentence is in past simple, we use 'was stolen'."
+        },
+        {
+          "id": 2,
+          "question": "Which sentence is in passive voice?",
+          "options": [
+            "The chef is cooking dinner.",
+            "Dinner is being cooked by the chef.",
+            "The chef cooked dinner.",
+            "The chef will cook dinner."
+          ],
+          "correct": 1,
+          "explanation": "Passive voice uses 'be + past participle'. 'Is being cooked' shows present continuous passive voice."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Simple Past Tense",
+      "explanation": "The simple past tense is used for actions that happened at a specific time in the past. Regular verbs add '-ed'; irregular verbs have unique forms.",
+      "examples": [
+        "She visited her grandmother yesterday.",
+        "They went to the park last week.",
+        "I finished my homework."
+      ],
+      "rules": [
+        "Add '-ed' to regular verbs.",
+        "Irregular verbs have unique past forms.",
+        "Use time expressions like 'yesterday', 'last week', 'in 2010'."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which sentence uses simple past correctly?",
+          "options": [
+            "She visit her friend yesterday.",
+            "She visited her friend yesterday.",
+            "She visits her friend yesterday.",
+            "She visiting her friend yesterday."
+          ],
+          "correct": 1,
+          "explanation": "Simple past uses the verb + '-ed' for regular verbs."
+        },
+        {
+          "id": 2,
+          "question": "What is the past tense of 'go'?",
+          "options": ["Goed", "Go", "Went", "Going"],
+          "correct": 2,
+          "explanation": "'Went' is the past tense of 'go'."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Future Tense (Will)",
+      "explanation": "The future tense with 'will' is used to talk about actions that will happen in the future. The structure is: will + base verb.",
+      "examples": [
+        "I will call you tomorrow.",
+        "She will travel to London next month.",
+        "We will start the meeting at 10 AM."
+      ],
+      "rules": [
+        "Use 'will' + base verb.",
+        "Use for predictions, promises, and decisions made at the moment."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Choose the correct future tense sentence.",
+          "options": [
+            "I will to go.",
+            "I will go.",
+            "I will going.",
+            "I will goes."
+          ],
+          "correct": 1,
+          "explanation": "Future tense uses 'will' + base verb."
+        },
+        {
+          "id": 2,
+          "question": "Which word completes: 'She ___ finish her work soon.'",
+          "options": ["will", "is", "was", "has"],
+          "correct": 0,
+          "explanation": "'Will' is used for future actions."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Modal Verbs (Can, Could, Must)",
+      "explanation": "Modal verbs express ability, possibility, necessity, or permission. Common modals are can, could, must, may, might, should, would.",
+      "examples": [
+        "She can swim.",
+        "You must wear a seatbelt.",
+        "Could you help me?"
+      ],
+      "rules": [
+        "Modals are followed by the base verb.",
+        "Do not add 's', 'ed', or 'ing' to modals.",
+        "Use 'can' for ability, 'must' for necessity, 'could' for polite requests or past ability."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which sentence uses a modal verb correctly?",
+          "options": [
+            "She cans swim.",
+            "She can swims.",
+            "She can swim.",
+            "She can swimming."
+          ],
+          "correct": 2,
+          "explanation": "Modals are followed by the base verb."
+        },
+        {
+          "id": 2,
+          "question": "Which modal expresses necessity?",
+          "options": ["Can", "Must", "Could", "May"],
+          "correct": 1,
+          "explanation": "'Must' expresses necessity."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Articles (A, An, The)",
+      "explanation": "Articles are used before nouns. 'A' and 'an' are indefinite articles; 'the' is definite. Use 'a' before consonant sounds, 'an' before vowel sounds.",
+      "examples": [
+        "I saw a dog.",
+        "She is an engineer.",
+        "The sun rises in the east."
+      ],
+      "rules": [
+        "Use 'a' before consonant sounds.",
+        "Use 'an' before vowel sounds.",
+        "Use 'the' for specific nouns."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which article completes: 'He is ___ honest man.'",
+          "options": ["a", "an", "the", "no article"],
+          "correct": 1,
+          "explanation": "'An' is used before vowel sounds like 'honest'."
+        },
+        {
+          "id": 2,
+          "question": "Choose the correct sentence.",
+          "options": [
+            "I saw an dog.",
+            "I saw a dog.",
+            "I saw the dog.",
+            "I saw dog."
+          ],
+          "correct": 1,
+          "explanation": "'A' is used before consonant sounds."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Reported Speech",
+      "explanation": "Reported speech is used to tell what someone else said. Change the tense, pronouns, and time expressions as needed.",
+      "examples": [
+        "She said that she was tired.",
+        "He told me he would help.",
+        "They asked if I could come."
+      ],
+      "rules": [
+        "Change present to past tense.",
+        "Change pronouns and time expressions.",
+        "Use 'that' after reporting verbs."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Change to reported speech: 'I am happy,' she said.",
+          "options": [
+            "She said she is happy.",
+            "She said she was happy.",
+            "She said that she happy.",
+            "She said that she is happy."
+          ],
+          "correct": 1,
+          "explanation": "Change present to past tense in reported speech."
+        },
+        {
+          "id": 2,
+          "question": "Which is correct reported speech?",
+          "options": [
+            "He said he will help.",
+            "He said he would help.",
+            "He said he helps.",
+            "He said he helping."
+          ],
+          "correct": 1,
+          "explanation": "'Will' changes to 'would' in reported speech."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Adjectives and Adverbs",
+      "explanation": "Adjectives describe nouns; adverbs describe verbs, adjectives, or other adverbs. Adverbs often end in '-ly'.",
+      "examples": [
+        "She is a quick runner.",
+        "He ran quickly.",
+        "The very tall man smiled."
+      ],
+      "rules": [
+        "Adjectives modify nouns.",
+        "Adverbs modify verbs, adjectives, or other adverbs.",
+        "Many adverbs end in '-ly'."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which word is an adverb?",
+          "options": ["Quick", "Quickly", "Runner", "Run"],
+          "correct": 1,
+          "explanation": "'Quickly' is an adverb."
+        },
+        {
+          "id": 2,
+          "question": "Choose the correct sentence.",
+          "options": [
+            "She runs quick.",
+            "She runs quickly.",
+            "She quickly runs.",
+            "She run quickly."
+          ],
+          "correct": 1,
+          "explanation": "'She runs quickly.' is correct."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Prepositions of Place",
+      "explanation": "Prepositions of place show where something is. Common prepositions are in, on, at, under, behind, between, next to.",
+      "examples": [
+        "The book is on the table.",
+        "She sat between her friends.",
+        "The cat is under the chair."
+      ],
+      "rules": [
+        "Use 'in' for enclosed spaces.",
+        "Use 'on' for surfaces.",
+        "Use 'at' for specific points."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which preposition completes: 'The cat is ___ the box.'",
+          "options": ["in", "on", "at", "under"],
+          "correct": 0,
+          "explanation": "'In' is used for enclosed spaces."
+        },
+        {
+          "id": 2,
+          "question": "Choose the correct sentence.",
+          "options": [
+            "She sat at the table.",
+            "She sat in the table.",
+            "She sat on the table.",
+            "She sat under the table."
+          ],
+          "correct": 0,
+          "explanation": "'At' is used for specific points."
+        }
+      ]
+    }
+  ]
+}

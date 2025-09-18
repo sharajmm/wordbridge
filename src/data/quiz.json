@@ -1,0 +1,426 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "title": "General Language Knowledge",
+      "description": "Test your overall language skills with this comprehensive WordBridge quiz.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which word is closest in meaning to 'ubiquitous'?",
+          "options": ["Rare", "Everywhere", "Hidden", "Temporary"],
+          "correct": 1,
+          "explanation": "Ubiquitous means present everywhere or found everywhere at the same time."
+        },
+        {
+          "id": 2,
+          "question": "Choose the correct sentence:",
+          "options": [
+            "I have been to Paris last year.",
+            "I went to Paris last year.",
+            "I have went to Paris last year.",
+            "I was going to Paris last year."
+          ],
+          "correct": 1,
+          "explanation": "When referring to a specific time in the past ('last year'), use simple past tense, not present perfect."
+        },
+        {
+          "id": 3,
+          "question": "What is the past participle of 'choose'?",
+          "options": ["Choosed", "Chose", "Chosen", "Choosing"],
+          "correct": 2,
+          "explanation": "The past participle of 'choose' is 'chosen'. The past tense is 'chose'."
+        },
+        {
+          "id": 4,
+          "question": "Which sentence uses the subjunctive mood correctly?",
+          "options": [
+            "If I was rich, I would travel the world.",
+            "If I were rich, I would travel the world.",
+            "If I am rich, I would travel the world.",
+            "If I will be rich, I would travel the world."
+          ],
+          "correct": 1,
+          "explanation": "The subjunctive mood uses 'were' instead of 'was' in hypothetical situations, regardless of the subject."
+        },
+        {
+          "id": 5,
+          "question": "What does 'procrastinate' mean?",
+          "options": [
+            "To finish early",
+            "To delay or postpone",
+            "To work efficiently",
+            "To organize carefully"
+          ],
+          "correct": 1,
+          "explanation": "Procrastinate means to delay or postpone action; to put off doing something."
+        },
+        {
+          "id": 6,
+          "question": "Which sentence is grammatically correct?",
+          "options": [
+            "Neither of the students were present.",
+            "Neither of the students was present.",
+            "Neither of the student was present.",
+            "Neither of the student were present."
+          ],
+          "correct": 1,
+          "explanation": "'Neither' is singular and requires a singular verb 'was'. The object of the preposition is 'students' (plural)."
+        },
+        {
+          "id": 7,
+          "question": "Choose the correct preposition: 'She is allergic ___ cats.'",
+          "options": ["of", "to", "for", "with"],
+          "correct": 1,
+          "explanation": "The correct phrase is 'allergic to' - we use 'to' after 'allergic' to indicate what causes the allergic reaction."
+        },
+        {
+          "id": 8,
+          "question": "What is a synonym for 'ephemeral'?",
+          "options": ["Permanent", "Temporary", "Solid", "Heavy"],
+          "correct": 1,
+          "explanation": "Ephemeral means lasting for a very short time, so 'temporary' is the closest synonym."
+        },
+        {
+          "id": 9,
+          "question": "Which sentence uses the apostrophe correctly?",
+          "options": [
+            "The dog's are playing in the park.",
+            "The dogs' are playing in the park.",
+            "The dogs are playing in the park.",
+            "The dog's playing in the park."
+          ],
+          "correct": 2,
+          "explanation": "No apostrophe is needed here. 'Dogs' is simply the plural form of 'dog', not possessive or a contraction."
+        },
+        {
+          "id": 10,
+          "question": "Complete the idiom: 'It's raining cats and ___'",
+          "options": ["mice", "dogs", "birds", "fish"],
+          "correct": 1,
+          "explanation": "The idiom 'It's raining cats and dogs' means it's raining very heavily."
+        },
+        {
+          "id": 11,
+          "question": "Which word is an antonym of 'diligent'?",
+          "options": ["Lazy", "Careful", "Active", "Efficient"],
+          "correct": 0,
+          "explanation": "'Lazy' is the opposite of 'diligent'."
+        },
+        {
+          "id": 12,
+          "question": "What is the plural of 'child'?",
+          "options": ["Childs", "Children", "Childes", "Childer"],
+          "correct": 1,
+          "explanation": "The correct plural is 'children'."
+        },
+        {
+          "id": 13,
+          "question": "Choose the correct spelling:",
+          "options": ["Recieve", "Receive", "Recive", "Receeve"],
+          "correct": 1,
+          "explanation": "'Receive' is the correct spelling."
+        },
+        {
+          "id": 14,
+          "question": "Which sentence is correct?",
+          "options": [
+            "She don't like apples.",
+            "She doesn't like apples.",
+            "She don't likes apples.",
+            "She doesn't likes apples."
+          ],
+          "correct": 1,
+          "explanation": "'She doesn't like apples.' is grammatically correct."
+        },
+        {
+          "id": 15,
+          "question": "What does 'serendipity' mean?",
+          "options": ["Bad luck", "Happy accident", "Hard work", "Sadness"],
+          "correct": 1,
+          "explanation": "'Serendipity' means a happy or beneficial accident."
+        },
+        {
+          "id": 16,
+          "question": "Which is a synonym for 'ephemeral'?",
+          "options": ["Lasting", "Short-lived", "Permanent", "Enduring"],
+          "correct": 1,
+          "explanation": "'Ephemeral' means short-lived."
+        },
+        {
+          "id": 17,
+          "question": "What is the past tense of 'run'?",
+          "options": ["Runned", "Ran", "Running", "Run"],
+          "correct": 1,
+          "explanation": "The past tense of 'run' is 'ran'."
+        },
+        {
+          "id": 18,
+          "question": "Which word means 'fond of company'?",
+          "options": ["Gregarious", "Solitary", "Hostile", "Reserved"],
+          "correct": 0,
+          "explanation": "'Gregarious' means sociable or fond of company."
+        },
+        {
+          "id": 19,
+          "question": "Choose the correct preposition: 'He is interested ___ music.'",
+          "options": ["in", "on", "at", "to"],
+          "correct": 0,
+          "explanation": "The correct phrase is 'interested in'."
+        },
+        {
+          "id": 20,
+          "question": "Which sentence is correct?",
+          "options": [
+            "There is less people here.",
+            "There are fewer people here.",
+            "There is fewer people here.",
+            "There are less people here."
+          ],
+          "correct": 1,
+          "explanation": "'Fewer' is used with countable nouns like 'people'."
+        },
+        {
+          "id": 21,
+          "question": "What does 'pragmatic' mean?",
+          "options": ["Idealistic", "Practical", "Dreamy", "Unrealistic"],
+          "correct": 1,
+          "explanation": "'Pragmatic' means practical."
+        },
+        {
+          "id": 22,
+          "question": "Which is a synonym for 'ubiquitous'?",
+          "options": ["Rare", "Everywhere", "Hidden", "Temporary"],
+          "correct": 1,
+          "explanation": "'Ubiquitous' means present everywhere."
+        },
+        {
+          "id": 23,
+          "question": "What is the comparative form of 'good'?",
+          "options": ["Gooder", "Better", "More good", "Best"],
+          "correct": 1,
+          "explanation": "'Better' is the comparative form of 'good'."
+        },
+        {
+          "id": 24,
+          "question": "Which word means 'lasting for a very short time'?",
+          "options": ["Ephemeral", "Permanent", "Enduring", "Long"],
+          "correct": 0,
+          "explanation": "'Ephemeral' means lasting for a very short time."
+        },
+        {
+          "id": 25,
+          "question": "Choose the correct sentence:",
+          "options": [
+            "He go to school every day.",
+            "He goes to school every day.",
+            "He going to school every day.",
+            "He gone to school every day."
+          ],
+          "correct": 1,
+          "explanation": "'He goes to school every day.' is correct."
+        },
+        {
+          "id": 26,
+          "question": "What does 'procrastinate' mean?",
+          "options": [
+            "To finish early",
+            "To delay or postpone",
+            "To work efficiently",
+            "To organize carefully"
+          ],
+          "correct": 1,
+          "explanation": "'Procrastinate' means to delay or postpone."
+        },
+        {
+          "id": 27,
+          "question": "Which is a synonym for 'resilient'?",
+          "options": ["Fragile", "Strong", "Weak", "Delicate"],
+          "correct": 1,
+          "explanation": "'Resilient' means strong and able to recover quickly."
+        },
+        {
+          "id": 28,
+          "question": "What is the plural of 'mouse'?",
+          "options": ["Mouses", "Mices", "Mouse", "Mice"],
+          "correct": 3,
+          "explanation": "The plural of 'mouse' is 'mice'."
+        },
+        {
+          "id": 29,
+          "question": "Choose the correct preposition: 'She is afraid ___ spiders.'",
+          "options": ["of", "to", "for", "with"],
+          "correct": 0,
+          "explanation": "The correct phrase is 'afraid of'."
+        },
+        {
+          "id": 30,
+          "question": "Which word means 'careful and precise'?",
+          "options": ["Meticulous", "Careless", "Sloppy", "Messy"],
+          "correct": 0,
+          "explanation": "'Meticulous' means careful and precise."
+        },
+        {
+          "id": 31,
+          "question": "What is the past tense of 'choose'?",
+          "options": ["Choosed", "Chose", "Chosen", "Choosing"],
+          "correct": 1,
+          "explanation": "The past tense of 'choose' is 'chose'."
+        },
+        {
+          "id": 32,
+          "question": "Which sentence is correct?",
+          "options": [
+            "Neither of the students were present.",
+            "Neither of the students was present.",
+            "Neither of the student was present.",
+            "Neither of the student were present."
+          ],
+          "correct": 1,
+          "explanation": "'Neither' is singular and requires a singular verb 'was'."
+        },
+        {
+          "id": 33,
+          "question": "What does 'scrutinize' mean?",
+          "options": ["Ignore", "Examine closely", "Forget", "Overlook"],
+          "correct": 1,
+          "explanation": "'Scrutinize' means to examine closely."
+        },
+        {
+          "id": 34,
+          "question": "Which is a synonym for 'lucid'?",
+          "options": ["Confusing", "Clear", "Dark", "Vague"],
+          "correct": 1,
+          "explanation": "'Lucid' means clear and easy to understand."
+        },
+        {
+          "id": 35,
+          "question": "What is the superlative form of 'bad'?",
+          "options": ["Badder", "Worst", "Baddest", "Worse"],
+          "correct": 1,
+          "explanation": "'Worst' is the superlative form of 'bad'."
+        },
+        {
+          "id": 36,
+          "question": "Choose the correct sentence:",
+          "options": [
+            "She have finished her work.",
+            "She has finished her work.",
+            "She has finish her work.",
+            "She have finish her work."
+          ],
+          "correct": 1,
+          "explanation": "'She has finished her work.' is correct."
+        },
+        {
+          "id": 37,
+          "question": "What does 'gregarious' mean?",
+          "options": ["Shy", "Sociable", "Angry", "Sad"],
+          "correct": 1,
+          "explanation": "'Gregarious' means sociable."
+        },
+        {
+          "id": 38,
+          "question": "Which word means 'to delay or postpone'?",
+          "options": ["Procrastinate", "Accelerate", "Facilitate", "Dominate"],
+          "correct": 0,
+          "explanation": "'Procrastinate' means to delay or postpone."
+        },
+        {
+          "id": 39,
+          "question": "What is the plural of 'goose'?",
+          "options": ["Gooses", "Geese", "Goosen", "Goosies"],
+          "correct": 1,
+          "explanation": "The plural of 'goose' is 'geese'."
+        },
+        {
+          "id": 40,
+          "question": "Choose the correct preposition: 'He is good ___ math.'",
+          "options": ["at", "in", "on", "to"],
+          "correct": 0,
+          "explanation": "The correct phrase is 'good at'."
+        },
+        {
+          "id": 41,
+          "question": "Which word means 'lasting for a very short time'?",
+          "options": ["Ephemeral", "Permanent", "Enduring", "Long"],
+          "correct": 0,
+          "explanation": "'Ephemeral' means lasting for a very short time."
+        },
+        {
+          "id": 42,
+          "question": "What is the past tense of 'swim'?",
+          "options": ["Swimmed", "Swam", "Swimming", "Swum"],
+          "correct": 1,
+          "explanation": "The past tense of 'swim' is 'swam'."
+        },
+        {
+          "id": 43,
+          "question": "Which sentence is correct?",
+          "options": [
+            "He don't like pizza.",
+            "He doesn't like pizza.",
+            "He don't likes pizza.",
+            "He doesn't likes pizza."
+          ],
+          "correct": 1,
+          "explanation": "'He doesn't like pizza.' is correct."
+        },
+        {
+          "id": 44,
+          "question": "What does 'lucid' mean?",
+          "options": ["Clear", "Confusing", "Dark", "Vague"],
+          "correct": 0,
+          "explanation": "'Lucid' means clear and easy to understand."
+        },
+        {
+          "id": 45,
+          "question": "Which is a synonym for 'pragmatic'?",
+          "options": ["Idealistic", "Practical", "Dreamy", "Unrealistic"],
+          "correct": 1,
+          "explanation": "'Pragmatic' means practical."
+        },
+        {
+          "id": 46,
+          "question": "What is the plural of 'tooth'?",
+          "options": ["Teeths", "Teeth", "Toothes", "Toothies"],
+          "correct": 1,
+          "explanation": "The plural of 'tooth' is 'teeth'."
+        },
+        {
+          "id": 47,
+          "question": "Choose the correct preposition: 'She is fond ___ chocolate.'",
+          "options": ["of", "to", "for", "with"],
+          "correct": 0,
+          "explanation": "The correct phrase is 'fond of'."
+        },
+        {
+          "id": 48,
+          "question": "Which word means 'present everywhere'?",
+          "options": ["Ubiquitous", "Rare", "Hidden", "Temporary"],
+          "correct": 0,
+          "explanation": "'Ubiquitous' means present everywhere."
+        },
+        {
+          "id": 49,
+          "question": "What is the past tense of 'write'?",
+          "options": ["Writed", "Wrote", "Writing", "Written"],
+          "correct": 1,
+          "explanation": "The past tense of 'write' is 'wrote'."
+        },
+        {
+          "id": 50,
+          "question": "Which sentence is correct?",
+          "options": [
+            "They has finished their homework.",
+            "They have finished their homework.",
+            "They have finish their homework.",
+            "They has finish their homework."
+          ],
+          "correct": 1,
+          "explanation": "'They have finished their homework.' is correct."
+        }
+      ]
+    }
+  ]
+}

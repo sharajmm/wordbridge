@@ -1,0 +1,404 @@
+{
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "Eloquent",
+      "meaning": "Fluent and persuasive in speaking or writing",
+      "example": "The eloquent speaker captivated the entire audience with her passionate speech.",
+      "difficulty": "advanced",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 2,
+      "word": "Resilient",
+      "meaning": "Able to withstand or recover quickly from difficult conditions",
+      "example": "Despite facing many challenges, she remained resilient and never gave up on her dreams.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 3,
+      "word": "Procrastinate",
+      "meaning": "Delay or postpone action; put off doing something",
+      "example": "Don't procrastinate on your homework - it's better to start early and avoid the stress.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 4,
+      "word": "Serendipity",
+      "meaning": "The occurrence of events by chance in a happy or beneficial way",
+      "example": "Meeting her future business partner at the coffee shop was pure serendipity.",
+      "difficulty": "advanced",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": 5,
+      "word": "Ephemeral",
+      "meaning": "Lasting for a very short time",
+      "example": "The beauty of cherry blossoms is ephemeral, lasting only a few weeks in spring.",
+      "difficulty": "advanced",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 6,
+      "word": "Pragmatic",
+      "meaning": "Dealing with things sensibly and realistically",
+      "example": "She took a pragmatic approach to solving the budget crisis, focusing on practical solutions.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 7,
+      "word": "Ubiquitous",
+      "meaning": "Present, appearing, or found everywhere",
+      "example": "Smartphones have become ubiquitous in modern society, found in nearly everyone's pocket.",
+      "difficulty": "advanced",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 8,
+      "word": "Catalyst",
+      "meaning": "A person or thing that precipitates an event or change",
+      "example": "The new technology served as a catalyst for rapid innovation in the industry.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": 9,
+      "word": "Brisk",
+      "meaning": "Quick and active; lively",
+      "example": "She took a brisk walk every morning.",
+      "difficulty": "beginner",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 10,
+      "word": "Ample",
+      "meaning": "More than enough; plentiful",
+      "example": "There was ample food for everyone at the party.",
+      "difficulty": "beginner",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 11,
+      "word": "Cautious",
+      "meaning": "Careful to avoid potential problems or dangers",
+      "example": "He was cautious when crossing the busy street.",
+      "difficulty": "beginner",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 12,
+      "word": "Diligent",
+      "meaning": "Having or showing care and conscientiousness in one's work or duties",
+      "example": "She is a diligent student who always completes her assignments.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 13,
+      "word": "Frugal",
+      "meaning": "Careful with money; thrifty",
+      "example": "He is frugal and always looks for the best deals.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 14,
+      "word": "Gregarious",
+      "meaning": "Fond of company; sociable",
+      "example": "She is gregarious and loves meeting new people.",
+      "difficulty": "advanced",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 15,
+      "word": "Hinder",
+      "meaning": "To make it difficult for something to happen",
+      "example": "Heavy traffic can hinder your progress.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 16,
+      "word": "Impeccable",
+      "meaning": "Perfect, without mistakes or faults",
+      "example": "Her manners are impeccable.",
+      "difficulty": "advanced",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 17,
+      "word": "Jovial",
+      "meaning": "Cheerful and friendly",
+      "example": "He was in a jovial mood at the party.",
+      "difficulty": "beginner",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 18,
+      "word": "Keen",
+      "meaning": "Having or showing eagerness or enthusiasm",
+      "example": "She is keen to learn new skills.",
+      "difficulty": "beginner",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 19,
+      "word": "Lucid",
+      "meaning": "Expressed clearly; easy to understand",
+      "example": "His explanation was lucid and easy to follow.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 20,
+      "word": "Meticulous",
+      "meaning": "Showing great attention to detail; very careful and precise",
+      "example": "She is meticulous in her work.",
+      "difficulty": "advanced",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 21,
+      "word": "Nimble",
+      "meaning": "Quick and light in movement or action",
+      "example": "The dancer was nimble on her feet.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 22,
+      "word": "Obscure",
+      "meaning": "Not discovered or known about; uncertain",
+      "example": "The meaning of the poem was obscure.",
+      "difficulty": "advanced",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 23,
+      "word": "Ponder",
+      "meaning": "Think about something carefully",
+      "example": "He likes to ponder big questions.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 24,
+      "word": "Quaint",
+      "meaning": "Attractively unusual or old-fashioned",
+      "example": "They stayed in a quaint cottage.",
+      "difficulty": "beginner",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 25,
+      "word": "Robust",
+      "meaning": "Strong and healthy; vigorous",
+      "example": "The system is robust and can handle heavy loads.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 26,
+      "word": "Scrutinize",
+      "meaning": "Examine or inspect closely and thoroughly",
+      "example": "The scientist will scrutinize the results.",
+      "difficulty": "advanced",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 27,
+      "word": "Tangible",
+      "meaning": "Perceptible by touch; clear and definite",
+      "example": "There was no tangible evidence of the crime.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 28,
+      "word": "Uplift",
+      "meaning": "To raise or improve something",
+      "example": "The music helped uplift her spirits.",
+      "difficulty": "beginner",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 29,
+      "word": "Vivid",
+      "meaning": "Producing powerful feelings or strong, clear images in the mind",
+      "example": "She gave a vivid description of the scene.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 30,
+      "word": "Wary",
+      "meaning": "Feeling or showing caution about possible dangers or problems",
+      "example": "He was wary of strangers.",
+      "difficulty": "beginner",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 31,
+      "word": "Yearn",
+      "meaning": "Have an intense feeling of longing for something",
+      "example": "She yearned for a holiday.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 32,
+      "word": "Zealous",
+      "meaning": "Having or showing great energy or enthusiasm",
+      "example": "He is zealous in his pursuit of success.",
+      "difficulty": "advanced",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 33,
+      "word": "Abundant",
+      "meaning": "Existing or available in large quantities",
+      "example": "There was abundant rainfall this year.",
+      "difficulty": "beginner",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 34,
+      "word": "Benevolent",
+      "meaning": "Well meaning and kindly",
+      "example": "She was a benevolent leader.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 35,
+      "word": "Concur",
+      "meaning": "To agree",
+      "example": "I concur with your opinion.",
+      "difficulty": "advanced",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 36,
+      "word": "Dwindle",
+      "meaning": "To diminish gradually in size, amount, or strength",
+      "example": "The supplies began to dwindle.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 37,
+      "word": "Eager",
+      "meaning": "Wanting to do or have something very much",
+      "example": "She was eager to start her new job.",
+      "difficulty": "beginner",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 38,
+      "word": "Fathom",
+      "meaning": "Understand after much thought",
+      "example": "He couldn't fathom why she left.",
+      "difficulty": "advanced",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 39,
+      "word": "Grasp",
+      "meaning": "To seize and hold firmly; to understand",
+      "example": "He tried to grasp the concept.",
+      "difficulty": "beginner",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 40,
+      "word": "Heed",
+      "meaning": "Pay attention to; take notice of",
+      "example": "You should heed the warning signs.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 41,
+      "word": "Incessant",
+      "meaning": "Continuing without pause or interruption",
+      "example": "The incessant noise made it hard to concentrate.",
+      "difficulty": "advanced",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 42,
+      "word": "Jargon",
+      "meaning": "Special words or expressions used by a profession or group",
+      "example": "Legal jargon can be confusing.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": 43,
+      "word": "Kindle",
+      "meaning": "To start a fire; to inspire",
+      "example": "The teacher kindled a love of reading in her students.",
+      "difficulty": "beginner",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 44,
+      "word": "Lethargic",
+      "meaning": "Sluggish and apathetic",
+      "example": "He felt lethargic after staying up all night.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 45,
+      "word": "Mundane",
+      "meaning": "Lacking interest or excitement; dull",
+      "example": "He found the task mundane.",
+      "difficulty": "advanced",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": 46,
+      "word": "Notion",
+      "meaning": "A conception of or belief about something",
+      "example": "She had a notion to travel the world.",
+      "difficulty": "beginner",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": 47,
+      "word": "Oblige",
+      "meaning": "Make (someone) legally or morally bound to do something",
+      "example": "He was obliged to help his friend.",
+      "difficulty": "intermediate",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 48,
+      "word": "Perplex",
+      "meaning": "To confuse or puzzle",
+      "example": "The question perplexed the students.",
+      "difficulty": "advanced",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 49,
+      "word": "Quench",
+      "meaning": "Satisfy (one's thirst) by drinking",
+      "example": "He quenched his thirst with cold water.",
+      "difficulty": "beginner",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": 50,
+      "word": "Revere",
+      "meaning": "Feel deep respect or admiration for something",
+      "example": "Many people revere historical leaders.",
+      "difficulty": "advanced",
+      "partOfSpeech": "verb"
+    }
+  ]
+}
